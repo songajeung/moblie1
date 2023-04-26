@@ -1,0 +1,120 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  width: 80%;
+  height: 844px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.phone_top {
+  height: 46px;
+  right: 0;
+  position: absolute;
+}
+
+.signal {
+  float: left;
+  margin-right: 8px;
+}
+.wifi {
+  float: left;
+  margin-right: 7px;
+}
+.battery {
+  float: left;
+}
+
+.recommend {
+  width: 170px;
+  height: 32px;
+  color: rgb(34, 22, 174);
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: left;
+  padding-top: 50px;
+}
+
+.memories {
+  margin-top: 32px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  color: rgb(34, 22, 174);
+  font-family: Poppins;
+}
+
+.memories span {
+  float: right;
+  color: rgba(34, 22, 174, 0.3);
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.Featured {
+  margin-top: 32px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  color: rgb(34, 22, 174);
+  font-family: Poppins;
+}
+
+.img1 {
+  margin-top: 16px;
+  width: 100%;
+}
+
+.content_2 {
+  margin-top: -32px;
+}
+.content_1 {
+  display: block;
+}
+
+.img2 {
+  margin-top: 16px;
+  width: 100%;
+}
+
+.footer {
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  display: block;
+  margin: 0 auto;
+  bottom: 0;
+  left: 0;
+  background: white;
+}
+
+.footer_img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+.footer_img img {
+  bottom: 0;
+  width: 100%;
+}
+
+.img1 img {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+}
+
+.img2 img {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+}
